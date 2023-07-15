@@ -14,7 +14,7 @@ I am working as a dispatcher of the car evacuation, where I am spending my free 
 - Python, PyCharm
 ### Code example:
 fuction multiply(a,b){\
-  return a+b;\
+  return a*b;\
 }
 ### Courses:
 - RS School's Course "JavaScript/Front-end. Stage 0" (in progress)
