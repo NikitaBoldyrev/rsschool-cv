@@ -19,5 +19,5 @@ fuction multiply(a,b){\
 ### Courses:
 - RS School's Course "JavaScript/Front-end. Stage 0" (in progress)
 ### Languages:
-- English - Upper-Intermediate
+- English - Intermediate
 - Russian - Native
